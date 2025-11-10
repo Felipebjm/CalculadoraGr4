@@ -15,3 +15,4 @@ if __name__ == '__main__':
     precio_inicial = 100
     precio_final = aplicar_reglas_compra(precio_inicial)
     print(f"Precio inicial: {precio_inicial}. Precio final: {precio_final}")
+##
